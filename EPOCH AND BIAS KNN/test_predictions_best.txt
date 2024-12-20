@@ -1,0 +1,12 @@
+
+Best Model Predictions (Epoch = 50, Bias = 1.0):
+n02093647-Bedlington_terrier
+n02093647-Bedlington_terrier
+n02093647-Bedlington_terrier
+n02093647-Bedlington_terrier
+n02093647-Bedlington_terrier
+n02093754-Border_terrier
+n02093754-Border_terrier
+n02093754-Border_terrier
+n02093754-Border_terrier
+n02093754-Border_terrier
